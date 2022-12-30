@@ -21,23 +21,13 @@
       "updated": "Fri Nov 26 2021"
     },
     {
-      "id": "b47e45f-ca88-340c-0884-b308580e0887",
-      "body": "Papa fam React Note",
-      "updated": "Wed Dec 15 2021"
-    },
-    {
       "id": "003fcde-778-072f-6be3-68e8674cc7e5",
       "body": "What is Web3.0",
       "updated": "Wed Dec 15 2021"
     },
     {
-      "id": "61d57-3f32-ae26-2c0f-a775a55ff44",
-      "body": "My Beautiful life\n\nMorning prayer\nmeditation\n30 mins of reading\nEvery other thing\n",
-      "updated": "Fri Dec 17 2021"
-    },
-    {
       "id": "7883d6c-0fb8-486-e708-a0f2e5a348a",
-      "body": "dacing today",
+      "body": "dacning today\n\najsdkak",
       "updated": "Sat Jan 01 2022"
     },
     {
@@ -46,9 +36,14 @@
       "updated": "Sat Feb 05 2022"
     },
     {
-      "id": "6f7d17-adf-265-7f08-0e88355ebe",
-      "body": "gyvtfytbg\nnugbgyvgvg",
-      "updated": "Sat Feb 05 2022"
+      "id": "cb26ef3-35e8-6c8e-0503-bb1e4fc8f74",
+      "body": "Wow this is cool",
+      "updated": "Fri Jul 29 2022"
+    },
+    {
+      "id": "a21dd1-be6-e2d0-6ab-abbf732dc3f",
+      "body": "Socket and threading\n\n\nSockets and the socket API are used to send messages across a network. They provide a form of inter-process communication (IPC). \n\nThe arguments passed to socket() specify the address family and socket type. AF_INET is the Internet address family for IPv4. SOCK_STREAM is the socket type for TCP, the protocol that will be used to transport our messages in the network.\n\nThe values passed to bind() depend on the address family of the socket. In this example, we’re using socket.AF_INET (IPv4). So it expects a 2-tuple: (host, port).\n\nhost can be a hostname, IP address, or empty string. If an IP address is used, host should be an IPv4-formatted address string. The IP address 127.0.0.1 is the standard IPv4 address for the loopback interface, so only processes on the host will be able to connect to the server. If you pass an empty string, the server will accept connections on all available IPv4 interfaces.\n\nport should be an integer from 1-65535 (0 is reserved). It’s the TCP port number to accept connections on from clients. Some systems may require superuser privileges if the port is < 1024.",
+      "updated": "Wed Nov 16 2022"
     }
   ]
 }
